@@ -1,0 +1,21 @@
+{
+  "name": "recordatorio-cumple",
+  "version": "0.0.1",
+  "description": "recordatorio de cumpleaños",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "whatsapp",
+    "cumple",
+    "recordatorio"
+  ],
+  "author": "mittaus",
+  "license": "ISC",
+  "dependencies": {
+    "@wppconnect-team/wppconnect": "^1.20.0",
+    "node-fetch": "^3.3.0"
+  }
+}
